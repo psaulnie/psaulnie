@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @psaulnie
-- 📫 Studying at 42Lyon Auvergne Rhône-Alpes
+- 📫 DevOps
 - 🇫🇷 French 
 
 <!---
